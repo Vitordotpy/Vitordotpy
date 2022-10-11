@@ -45,9 +45,19 @@
   ![Apache Netbeans IDE](https://img.shields.io/badge/-Apache%20Netbeans%20IDE-333333?style=flat&logo=ApacheNetbeansIDE)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)
   
-  **Meus Status no GitHub**
-  
+**Meus Status no GitHub**
+
 <a href="https://github.com/Vitordotpy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitordotpy&theme=dracula&hide_langs_below=1" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vitordotpy&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitordotpy&theme=radical&hide_langs_below=1" />
 </a>  
+
+<a href="https://github.com/Vitordotpy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vitordotpy&show_icons=true&theme=radical" />
+</a>  
+
+**Meus Contatos**
+
+<a href = "mailto:v.program.py@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "https://br.linkedin.com/in/vitor-manoel-santos-moura-7a4b89205"><img src="https://img.shields.io/badge/-Linkedin-%233333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
+<a href = "https://instagram.com/vitor_sntsm?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/-Instagram-%233333?style=for-the-badge&logo=instagram&logoColor=wine" target="_blank"></a>
+
