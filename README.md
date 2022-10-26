@@ -21,6 +21,7 @@
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
   
 **Utilidades**
 
