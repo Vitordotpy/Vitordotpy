@@ -45,16 +45,6 @@
   ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=IntellijIDEA)
   ![Apache Netbeans IDE](https://img.shields.io/badge/-Apache%20Netbeans%20IDE-333333?style=flat&logo=ApacheNetbeansIDE)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)
-  
-**Meus Status no GitHub**
-
-<a href="https://github.com/Vitordotpy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitordotpy&theme=radical&hide_langs_below=1" />
-</a>  
-
-<a href="https://github.com/Vitordotpy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vitordotpy&show_icons=true&theme=radical" />
-</a>  
 
 **Meus Contatos**
 
