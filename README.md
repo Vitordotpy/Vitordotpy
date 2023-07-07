@@ -27,6 +27,8 @@
   ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=Salesforce)
   ![SOQL](https://img.shields.io/badge/-SOQL-333333?style=flat&logo=SOQL)
   ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   
 **Utilidades**
 
