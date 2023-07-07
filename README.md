@@ -17,12 +17,16 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
   ![XML](https://img.shields.io/badge/-XML-333333?style=flat&logo=XML)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
   ![Apex](https://img.shields.io/badge/-Apex-333333?style=flat&logo=Apex)
+  ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=Salesforce)
+  ![SOQL](https://img.shields.io/badge/-SOQL-333333?style=flat&logo=SOQL)
+  ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=Assembly)
   
 **Utilidades**
 
@@ -30,6 +34,8 @@
   ![PuTTY](https://img.shields.io/badge/-PuTTY-333333?style=flat&logo=PuTTY)
   ![FileZilla](https://img.shields.io/badge/-FileZilla-333333?style=flat&logo=FileZilla)
   ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-333333?style=flat&logo=ApacheTomcat)
+  ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazonaws)
+  ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=Salesforce)
 
 **DevOps**
 
