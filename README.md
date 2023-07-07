@@ -22,6 +22,7 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
+  ![Apex](https://img.shields.io/badge/-Apex-333333?style=flat&logo=Apex)
   
 **Utilidades**
 
@@ -45,6 +46,9 @@
   ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=IntellijIDEA)
   ![Apache Netbeans IDE](https://img.shields.io/badge/-Apache%20Netbeans%20IDE-333333?style=flat&logo=ApacheNetbeansIDE)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)
+  ![MASM32 Editor](https://img.shields.io/badge/-MASM32%20Editor-333333?style=flat&logo=MASM32)
+  ![JavaFX Scene Builder](https://img.shields.io/badge/-JavaFX%20Scene%20Builder-333333?style=flat&logo=JavaFXSceneBuilder)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse)
 
 **Meus Contatos**
 
