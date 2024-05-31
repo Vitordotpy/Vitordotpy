@@ -3,9 +3,10 @@
 
 <h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
 
+- 🚀 &nbsp; Cofundador e Gerente de Projetos na <a href="https://www.apollosolves.com">Apollo Solves</a>.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.ufs.br">UFS</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Flutter / Dart / Java / Spring Boot / SQL / C**.
+- 🎓 &nbsp; Graduando **Ciência da Computação** na <a href="https://www.ufs.br">UFS</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **React / Next.Js / Nest.Js / CI/CD / DevOps / Project Managment**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
