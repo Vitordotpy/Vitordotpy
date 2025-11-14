@@ -3,7 +3,7 @@
 
 <h3> 🙇‍♂️: &nbsp;Sobre mim </h3>
 
-- 🚀 &nbsp; Cofundador e CTO na <a href="https://www.apollosolves.com">Apollo Solves</a>.
+- 🚀 &nbsp; Cofundador e CTO na <a href="https://www.flipdesk.com.br">FlipDesk</a>.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduando **Ciência da Computação** na <a href="https://www.ufs.br">UFS</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **React / Next.Js / Nest.Js / CI/CD / DevOps / Project Managment**.
